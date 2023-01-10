@@ -1,2 +1,2 @@
 # PrepCourse-HENRY
-una prueba del modulo 2
+este es una pruebe de crear un repositor y clonarlo desde github a mi computadora.  
